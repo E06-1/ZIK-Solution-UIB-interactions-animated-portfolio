@@ -1,14 +1,14 @@
-# UIB_Interaction_Exercise-1
+# Animated Portfolio
 
-Single webpage with dropdown menu, clip-path and animations
+In this exercise we'll be creating a single portfolio webpage with dropdown menu, `clip-path` and animations
 
-## Instructions
+The website you will be making is [here...](https://hsnakk.github.io/UIB_Interaction_Exercise-1/)
 
-- Add a title to the document.
-- Use External CSS to style the document.
-- Please just code what you see, neither less nor more.
-- Navigation menu should be dropdown menu, and also use clip-path property and animations in proper sections.
+## Keep in Mind
 
-## The online version
+- Notice the hover effects on the links in the navigation bar and the dropdown menus on _Services_ and _About Me_
+- There is an animation reveal when the user hovers over the _info_ icon
+- There is an animation and neon effect on the _Home_ and _About_ buttons at the bottom of the page
+- Make the page as pixel-perfect to the reference site as possible
 
-In order to see live version, just [click...!](https://hsnakk.github.io/UIB_Interaction_Exercise-1/)
+Experiment and have fun!
